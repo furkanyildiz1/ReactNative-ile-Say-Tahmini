@@ -1,4 +1,4 @@
-# KelimeTahmini (React Native CLI)
+# SayıTahmini (React Native CLI)
 
 Bu proje, React Native CLI kullanılarak geliştirilmiş bir sayı tahmin oyunudur. Kullanıcı bir sayı belirler, uygulama ise bu sayıyı tahmin etmeye çalışır. Oyun boyunca tahminler, tur sayısı ve oyun sonu ekranı gibi özellikler sunulmaktadır.
 
